@@ -1,0 +1,22 @@
+.body h4
+{
+    margin-left: 2%;
+    
+}
+.body p
+{
+    margin-left: 5%;
+    
+}
+
+.title
+{
+    display: flex;
+
+}
+.title h4
+{
+    margin-left: 10px;
+    color: brown;
+
+}
